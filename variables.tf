@@ -11,7 +11,6 @@ variable "type" {
 # Region 
 variable "region" {
   type    = string
-  default = "us-east-1"
 }
 
 # VPC name 1
